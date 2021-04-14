@@ -39,6 +39,6 @@
 ```
 
 ### Вариант 5
-При помощи [отложенной отладки](http://devtool1c.ucoz.ru/index/funkcii_dlja_otladki/0-33) в Инструментах разработчика от tormozit
+При помощи [отложенной отладки](http://devtool1c.ucoz.ru/index/funkcii_dlja_otladki/0-33) в Инструментах разработчика от tormozit. Конечно это уже не совсем про отладку в конфигураторе только средствами встроенного языка, но стоит отдельного упоминания.
 * [Видео](https://www.youtube.com/watch?v=54WwCC4j03U&ab_channel=SergeyTormozit) с демонстрацией для встроенной подсистемы
 * [Видео](https://www.youtube.com/watch?v=hiw_aYVOvFc&ab_channel=SergeyTormozit) с демонстрацией для портативного варианта
